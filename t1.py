@@ -9,3 +9,7 @@ def oo():
 
 
 print("222")
+
+
+def n1():
+    pass
