@@ -5,4 +5,4 @@ print("777777")
 
 
 def oo():
-    pass
+    print("已经完成了")
