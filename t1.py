@@ -6,3 +6,7 @@ print("777777")
 
 def oo():
     print("已经完成了")
+
+
+def n1():
+    pass
