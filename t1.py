@@ -6,3 +6,6 @@ print("777777")
 
 def oo():
     print("已经完成了")
+
+
+print("222")
